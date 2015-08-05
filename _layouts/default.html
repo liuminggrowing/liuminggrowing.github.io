@@ -1,16 +1,22 @@
----
-layout: compress
----
+<!DOCTYPE html>
+<html lang="en">
+
 {% include head.html %}
-<body id="top-of-page" class="{{ page.format }}">
-	{% include navigation.html %}
 
-	{% include masthead.html %}
+<body ontouchstart="">
 
-	{{ content }}
+    {% include nav.html %}
 
-	{% include footer.html %}
-	
-	{% include footer_scripts.html %}
+    {{ content }}
+
+    {% include footer.html %}
+
+
+<!-- Image to hack wechat -->
+<img src="/img/icon_wechat.png" width="0" height="0" />
+<!-- Migrate from head to bottom, no longer block render and still work -->
+
+<script type="text/javascript" src="http://tajs.qq.com/stats?sId=43623438" charset="UTF-8"></script>
 </body>
+
 </html>

@@ -1,50 +1,27 @@
+#Hux Blog 
 
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-1280x720.jpg)](https://www.youtube.com/embed/3b5zCFSmVvU)
+###[View Live Hux Blog &rarr;](http://huxpro.github.io)
 
-## A Responsive Jekyll Theme: *Feeling Responsive*
-
-Do you want to get to know *Feeling Responsive*? Than check it out first and have a look on its home at  <http://phlow.github.io/feeling-responsive/>.
-
-To get to know *Feeling Responsive* check out all the features explained in the [documentation][1].
-
-And what license is *Feeling Responsive* released under? [This one][2].
+![](http://pic3.zhimg.com/4b3c678f7c23067a1975bbc20f6711ea_b.jpg)
 
 
+### Feature
 
-## Why use this theme?
+- Full-feature **tag** support
+- UX optimize for mobile used (bunch of `webkit-vender-something`)
+- Typographic optimize for Chinese (font-family, size, weight..)
+- Network optimze for Chinese environment (drop webfont, local CDN)
+- Using Github Flavored Markdown
+- Use duoshuo as the disqus-like third party discussion system
+- Use Baidu, Tencent analyze
 
-Feeling Responsive is heavily customizable.
+### Support
 
-1. Language-Support :)
-2. Optimized for speed and it's responsive.
-3. Built on Foundation Framework.
-4. Six different Headers.
-5. Customizable navigation, footer,...
-
-**[More ›][3]**
+- Expect Star when forked
+- Any problem, just open an issue here
 
 
 
-## Video Tutorial
+### Thanks
 
-Click the image to [watch the YouTube-Video-Tutorial][4].
-
-[![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
-
-
-
-
-
-
-
- [1]: http://phlow.github.io/feeling-responsive/documentation/
- [2]: https://github.com/Phlow/feeling-responsive/blob/gh-pages/LICENSE
- [3]: http://phlow.github.io/feeling-responsive/info/
- [4]: https://www.youtube.com/watch?v=rLS-BEvlEyY
- [5]: #
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+Forked from [IronSummitMedia/startbootstrap-clean-blog-jekyll](https://github.com/IronSummitMedia/startbootstrap-clean-blog-jekyll)
