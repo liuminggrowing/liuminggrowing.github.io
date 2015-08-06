@@ -6,9 +6,9 @@ date:       2015-08-05
 author:     "liuming09"   
 header-img: "img/post-bg-dashenguilai.jpeg"   
 tags:
-	- 大牛
-	- 技术分享
-	- web
+- 大牛
+- 技术分享
+- web
 ---   
 
 
