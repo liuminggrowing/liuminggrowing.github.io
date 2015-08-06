@@ -1,13 +1,15 @@
 ---
-layout:		post
-title:		"chuqin share"
-author:		"liuming"
-date:		2015-08-06
-header-img: "img/post-bg-dashenguilai.jpeg"
+layout:     post
+title:      "聊聊「阿里旅行 · 去啊」—— 行业与战略 "
+subtitle:   "聊聊在线旅行行业与老东家的产品思路"
+date:       2015-06-15
+author:     "Hux"
+header-img: "img/post-bg-alitrip.jpg"
 tags:
-	- 技术分享
-	- 大牛
-	- web技术
+    - 产品设计
+    - 阿里巴巴
+    - 在线旅行
+    - 电子商务
 ---
 
 
