@@ -5,6 +5,10 @@ subtitle:   "关于web技术"
 date:       2015-08-05   
 author:     "liuming09"   
 header-img: "img/post-bg-dashenguilai.jpeg"   
+tags:
+	- 大牛
+	- 技术分享
+	- web
 ---   
 
 
