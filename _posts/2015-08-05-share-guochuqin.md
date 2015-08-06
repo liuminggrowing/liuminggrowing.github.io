@@ -1,8 +1,12 @@
 ---
-layout: post
-title: "chuqin share"
+layout:		post
+title:		"chuqin share"
+author:		"liuming"
+date:		2015-8-6
 tags:
 	- 技术分享
+	- 大牛
+	- web技术
 ---
 # 郭楚钦技术分享 #
 
