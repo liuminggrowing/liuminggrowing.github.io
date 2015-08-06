@@ -1,16 +1,16 @@
 ---
-layout:     post
-title:      "楚钦大神web技术分享 "
-subtitle:   "关于web技术"
-date:       2015-08-06
-author:     "liuming09"
-header-img: "img/post-bg-dashenguilai.jpeg"
-tags:
-    - 郭楚钦
-	- 大牛
-	- web
-	- 技术分享
----
+layout:     post   
+title:      "楚钦大神web技术分享 "   
+subtitle:   "关于web技术"   
+date:       2015-08-06   
+author:     "liuming09"   
+header-img: "img/post-bg-dashenguilai.jpeg"   
+tags:   
+    - 郭楚钦   
+	- 大牛   
+	- web   
+	- 技术分享   
+---   
 
 
 # 郭楚钦技术分享 #
