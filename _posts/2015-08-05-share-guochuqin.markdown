@@ -1,15 +1,15 @@
 ---
 layout:     post
-title:      "聊聊「阿里旅行 · 去啊」—— 行业与战略 "
-subtitle:   "聊聊在线旅行行业与老东家的产品思路"
-date:       2015-06-15
-author:     "Hux"
-header-img: "img/post-bg-alitrip.jpg"
+title:      "楚钦大神web技术分享 "
+subtitle:   "关于web技术"
+date:       2015-08-06
+author:     "liuming09"
+header-img: "img/post-bg-dashenguilai.jpeg"
 tags:
-    - 产品设计
-    - 阿里巴巴
-    - 在线旅行
-    - 电子商务
+    - 郭楚钦
+	- 大牛
+	- web
+	- 技术分享
 ---
 
 
