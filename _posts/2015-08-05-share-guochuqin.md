@@ -2,7 +2,8 @@
 layout:		post
 title:		"chuqin share"
 author:		"liuming"
-date:		2015-8-6
+date:		2015-08-06
+header-img: "img/post-bg-dashenguilai.jpeg"
 tags:
 	- 技术分享
 	- 大牛
