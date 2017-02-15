@@ -1,0 +1,16 @@
+---
+layout: default
+antuor: liuming
+title:　首页
+---
+{% for post in paginator.posts %}
+<div>
+	<a href="{{ post.url }}">
+		<h2> {{ post.title }} </h2>
+		<div>
+			{{ post.content | strip_html | truncate:200 }}
+		</div>
+	</a>
+</div>
+<hr>
+{% endfor %}
